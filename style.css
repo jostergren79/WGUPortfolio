@@ -1,0 +1,32 @@
+.container {
+    display: grid;
+}
+
+header {
+    color: blue;
+    border-style: ridge;
+}
+#boxOne {
+    color: chartreuse;
+    border-style: ridge;
+    float: left;
+
+}
+#boxTwo {
+    color: crimson;
+    border-style: ridge;
+
+
+}
+#boxThree {
+    color: orangered;
+    border-style: ridge;
+
+
+}
+
+footer {
+    color: pink;
+    border-style: ridge;
+
+}
